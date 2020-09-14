@@ -1,0 +1,115 @@
+.top-container{
+    background-color: #EAF6F6;
+    text-align: center;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud{
+
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.web-picture{
+    height: 400px;
+    width: 400px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+body{
+    text-align: center;
+    background: #393e46;
+    padding-top: 50px;
+    color: #66BFBF;
+}
+
+.pro{
+    text-decoration:underline;
+}
+h1{
+    margin: 50px auto 20px auto;
+    color:#66BFBF;
+    font-family: 'Bangers', cursive;
+    font-weight: lighter;
+    font-size: 3.75rem;
+}
+
+.special-header{
+    color: #66BFBF;
+    font-family: 'Crimson Text', serif;
+    margin-left: 100px;
+    font-size: 2.5rem;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Crimson Text', serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
+h3{
+    font-family: 'Crimson Text', serif;
+    color: #66BFBF;
+}
+
+hr{
+    border-top: 8px dotted grey;
+    width: 60px;
+
+}
+
+.mid-container{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    background: white;
+    
+}
+
+.profile-pic{
+    height: 400px;
+    width: 400px;
+}
+
+.computer{
+    float: left;
+    width: 250px;
+    margin: 20px;
+}
+
+.chillies{
+    float: right;
+    width: 250px;
+    margin: 20px;
+}
+
+.Clicky-boyo{
+    background-color: #66BFBF;
+    height: 50px;
+    width: 200px;
+    border-radius: 4px;
+    color: white;
+    margin: 20px;
+}
+
+.bottom-container{
+    padding: 50px;
+    background-color: #EAF6F6;
+    font-size: larger;
+
+}
